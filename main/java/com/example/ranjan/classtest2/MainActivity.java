@@ -1,4 +1,4 @@
-package com.example.hrishi.classtest2;
+package com.example.ranjan.classtest2;
 
 import android.Manifest;
 import android.app.NotificationManager;
